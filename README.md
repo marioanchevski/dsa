@@ -7,3 +7,7 @@
 2. [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/ContainsDuplicate.java)
 3. [Two sum](https://leetcode.com/problems/two-sum/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/TwoSum.java)
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/GroupAnagrams.java)
+
+### Two pointers
+5. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ValidPalindrome.java)
+6. [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ContainerWithMostWater.java)
