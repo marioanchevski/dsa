@@ -7,6 +7,7 @@
 2. [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/ContainsDuplicate.java)
 3. [Two sum](https://leetcode.com/problems/two-sum/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/TwoSum.java)
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/GroupAnagrams.java)
+7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/LongestConsecutiveSequence.java)
 
 ### Two pointers
 5. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ValidPalindrome.java)
