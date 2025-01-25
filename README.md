@@ -12,3 +12,4 @@
 ### Two pointers
 5. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ValidPalindrome.java)
 6. [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ContainerWithMostWater.java)
+8. [3Sum](https://leetcode.com/problems/3sum/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ThreeSum.java)
