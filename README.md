@@ -8,6 +8,7 @@
 3. [Two sum](https://leetcode.com/problems/two-sum/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/TwoSum.java)
 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/GroupAnagrams.java)
 7. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/LongestConsecutiveSequence.java)
+8. [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/arrays/ProductOfArrayExceptSelf.java)
 
 ### Two pointers
 5. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ValidPalindrome.java)
