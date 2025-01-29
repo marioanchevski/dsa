@@ -14,6 +14,7 @@
 5. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ValidPalindrome.java)
 6. [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ContainerWithMostWater.java)
 8. [3Sum](https://leetcode.com/problems/3sum/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/ThreeSum.java)
+12. [Two Integer Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/twopointers/TwoIntegerSum.java)
 
 ### Binary Search
 10. [Binary Search](https://leetcode.com/problems/binary-search/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/binarysearch/BinarySearch.java)
