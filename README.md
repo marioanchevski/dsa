@@ -19,3 +19,6 @@
 ### Binary Search
 10. [Binary Search](https://leetcode.com/problems/binary-search/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/binarysearch/BinarySearch.java)
 11. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/binarysearch/KokoEatingBananas.java)
+
+### Sliding window
+13. [Best Time To Buy Adn Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/slidingwindow/BestTimeToBuyAndSellStock.java)
