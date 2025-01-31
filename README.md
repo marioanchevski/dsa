@@ -22,3 +22,4 @@
 
 ### Sliding window
 13. [Best Time To Buy Adn Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/slidingwindow/BestTimeToBuyAndSellStock.java)
+14. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - [solution](https://github.com/marioanchevski/dsa/blob/main/java/src/leetcode/slidingwindow/LongestSubstringWithoutRepeatingCharacters.java)
